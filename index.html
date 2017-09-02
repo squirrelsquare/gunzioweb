@@ -11,47 +11,10 @@
     }   
   </style>  
   
-  <script src='https://cdn1.kongregate.com/javascripts/kongregate_api.js'>
-  </script>
-
-  <script src="Build/UnityLoader.js"></script>
-  <script>
-    function UnityProgress(gameInstance, progress) {
-      var container = document.getElementById('gameContainer');
-      if (container) document.body.style.background = container.style.background;
-
-      if (!gameInstance.Module) {
-         return;
-      } else if (progress === "complete") {
-        //document.getElementById("loadingBox").style.display = "none";
-        //document.getElementById("icon").style.display = "none";
-        //document.getElementById("loadingInfo").style.display = "none";
-		//document.getElementById("googleplaylink").style.display = "none";
-		document.getElementById("gunzImage").style.display = "none";
-        //document.getElementById("box").style.display = "none";
-        return;
-      } else if (progress == 1) {
-        document.getElementById("loadingInfo").innerHTML = "PROCESSING...";
-        document.getElementById("spinner").style.display = "inherit";
-        document.getElementById("bgBar").style.display = "none";
-        document.getElementById("progressBar").style.display = "none";
-      } else if (progress > 0) {
-        document.getElementById("progressBar").style.width = 300 * progress + "px"
-        document.getElementById("loadingInfo").innerHTML = Math.round(progress * 100) + "%";
-        document.getElementById("spinner").style.display = "none";
-        document.getElementById("bgBar").style.display = "block";
-        document.getElementById("progressBar").style.display = "inherit";
-      }
-    }
-    var gameInstance = UnityLoader.instantiate("gameContainer", "Build/gunz_web.json", {
-      onProgress: UnityProgress,
-      Module: {
-        onRuntimeInitialized: function() { UnityProgress(gameInstance, "complete") }
-      }
-    });
-  </script>
+  
 </head>
 <body>
+<div class="links"><a href="http://io-games.io/">More io games</a></div>
 <div data-height="500" class="game_frame" style="height: 500px;width: 890px;" data-width="890"><iframe msallowfullscreen="false" width="100%" mozallowfullscreen="false" id="game_drop" frameborder="0" src="https://v6p9d9t4.ssl.hwcdn.net/html/583445/index.html" scrolling="no" allowtransparency="true" allowfullscreen="false" height="100%" webkitallowfullscreen="false"></iframe></div>
 </body>
 </html>
