@@ -1,0 +1,264 @@
+<!doctype html>
+<html lang="en-us">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>GUNZ.IO</title>
+  <style>
+    * {
+	margin: 0;
+	padding: 0;
+	position: absolute;
+    }
+
+    #gameContainer canvas {
+      display:block;
+    }
+
+    div#webgl-content {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      -webkit-transform: translate(-50%, -50%);
+      transform: translate(-50%, -50%);
+    }
+
+    div#loadingBox {
+	width: 100%;
+	height: 0px;
+	position: absolute;
+	top: 50%;
+	margin-top: 200px;
+	text-align: center;
+    }
+	
+	div#googleplaybox {
+		width: 890px;
+		height: 500px;
+		position: absolute;	
+    }
+	
+	img#googleplay {
+	width: 240px;
+	position: absolute;
+	top: 393px;
+	left: 3px;
+    }
+	
+	div#crosspromo {
+	position: absolute;
+	top: 14px;
+	left: 624px;
+    }
+	
+	div#iogameslink {
+	position: absolute;
+	top: 449px;
+	left: 740px;
+    }	
+	
+	div#iogameslink a{
+	color: #310C08;
+	font: 20px bold Arial, Helvetica, sans-serif;
+	
+    }
+	div#iogameslink a:visited{
+	color: #310C08;
+	
+    }
+	
+	div#youtubefeature {
+	position: absolute;
+	top: 331px;
+	left: 21px;
+	color: #2E0D08;
+	font: 20px bold Arial, Helvetica, sans-serif;
+    }	
+	
+	div#youtubefeature a{
+	color: #310C08;
+	font: 16px bold Arial, Helvetica, sans-serif;
+	
+    }
+	div#youtubefeature a:visited{
+	color: #310C08;
+	
+    }
+	
+    div#icon {
+      width: 300px;
+      height: 310px;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      margin-top: -185px;
+      margin-left: -150px;
+      background-image: url("Template/anthill.png");
+      background-repeat: no-repeat;
+      box-shadow: 1px 1px 5px #141414;
+    }
+
+    div#gunzImage {
+	width: 890px;
+	height: 500px;
+	position: absolute;
+	background: #222;
+	background-image: url("img/gunzioSplash.jpg");
+	background-repeat: no-repeat;
+    }
+	
+	div#box {
+      width: 328px;
+      height: 367px;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      margin-top: -199px;
+      margin-left: -164px;
+      background: #222;
+      box-shadow: 1px 1px 5px #000;
+    }
+
+    div#bgBar {
+	display: none;
+	position: absolute;
+	width: 300px;
+	margin-left: -150px;
+	left: 50%;
+	height: 18px;
+	background-color: #FF9900;
+	box-shadow: 1px 1px 5px #111;
+    }
+
+    div#progressBar {
+	display: none;
+	left: 50%;
+	position: absolute;
+	margin-left: -150px;
+	width: 0px;
+	height: 18px;
+	background-color: #FFFF00;
+    }
+
+    p#loadingInfo {
+	color: #2B0B08;
+	letter-spacing: 1px;
+	position: absolute;
+	width: 100%;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	top: 50%;
+	font-size: 12px;
+	font-weight: bold;
+	margin-top: 202px;
+	text-shadow: 0px 0px 5px #000;
+    }
+
+    div#spinner {
+	position: absolute;
+	height: 18px;
+	left: 50%;
+	margin-left: -150px;
+	width: 300px;
+	position: relative;
+	overflow: hidden;
+	background-color: #FFFF00;
+	box-shadow: 1px 1px 5px #111;
+    }
+
+    div#spinner:before {
+	display: block;
+	position: absolute;
+	content: "";
+	width: 150%;
+	margin-left: -10px;
+	height: 10px;
+	background-color: #FFFFFF;
+	transform: rotate(-5deg);
+	animation: loading 1s linear infinite;
+    }
+
+    @keyframes loading {
+      from {
+        top: -185%
+      }
+      to {
+        top: 225%
+      }
+    }
+  img#youtubeicon {
+	vertical-align: text-top;
+}
+  </style>  
+  
+  <script src='https://cdn1.kongregate.com/javascripts/kongregate_api.js'>
+  </script>
+
+  <script src="Build/UnityLoader.js"></script>
+  <script>
+    function UnityProgress(gameInstance, progress) {
+      var container = document.getElementById('gameContainer');
+      if (container) document.body.style.background = container.style.background;
+
+      if (!gameInstance.Module) {
+         return;
+      } else if (progress === "complete") {
+        //document.getElementById("loadingBox").style.display = "none";
+        //document.getElementById("icon").style.display = "none";
+        //document.getElementById("loadingInfo").style.display = "none";
+		//document.getElementById("googleplaylink").style.display = "none";
+		document.getElementById("gunzImage").style.display = "none";
+        //document.getElementById("box").style.display = "none";
+        return;
+      } else if (progress == 1) {
+        document.getElementById("loadingInfo").innerHTML = "PROCESSING...";
+        document.getElementById("spinner").style.display = "inherit";
+        document.getElementById("bgBar").style.display = "none";
+        document.getElementById("progressBar").style.display = "none";
+      } else if (progress > 0) {
+        document.getElementById("progressBar").style.width = 300 * progress + "px"
+        document.getElementById("loadingInfo").innerHTML = Math.round(progress * 100) + "%";
+        document.getElementById("spinner").style.display = "none";
+        document.getElementById("bgBar").style.display = "block";
+        document.getElementById("progressBar").style.display = "inherit";
+      }
+    }
+    var gameInstance = UnityLoader.instantiate("gameContainer", "Build/gunz_web.json", {
+      onProgress: UnityProgress,
+      Module: {
+        onRuntimeInitialized: function() { UnityProgress(gameInstance, "complete") }
+      }
+    });
+  </script>
+</head>
+<body>
+<div class="links"><a href="http://io-games.io/">More io games</a></div>
+  <div id="webgl-content" style="width: 890px; height: 500px; position: absolute; top: 250px; left: 445px;">
+    <div id="gameContainer" style="width: 890px; height: 500px"></div>
+  </div>
+  
+  <div id="gunzImage">
+  <div id="loadingBox">
+    <div id="spinner"></div>
+    <div id="bgBar"></div>
+    <div id="progressBar"></div>
+  </div>
+  <!--div id="icon"></div--> 
+<p id="loadingInfo"></p>
+<a id="googleplaylink" target="_top" href="https://play.google.com/store/apps/details?id=com.indiegame.gunzio&utm_source=web&utm_medium=splash">
+<div id="googleplaybox"><img src="img/googleplay.png" id="googleplay" /></div></a>
+
+<!--div id="crosspromo"><iframe scrolling="no" frameborder="0" width="250" height="125" src="http://gamezoo.io/panel/get_banner/270"></iframe></div>
+<div id="iogameslink"><a href="http://www.io-games.io" target="_blank">More IO Games</a>
+</div-->
+<div id="iogameslink"><a href="https://pastebin.com/PX5pKLAY" target="_blank">Embed game</a></div>
+<div id="youtubefeature"><img id="youtubeicon" src="img/youtube-256.png" width="22
+
+"> Featured youtuber:<br /><a href="mailto:temnikov@gmailcom" target="_blank">Send video</a>
+</div>
+</div>
+
+  <!--div id="box"></div-->
+  
+</body>
+</html>
