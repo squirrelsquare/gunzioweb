@@ -1,6 +1,6 @@
-END-USER LICENSE AGREEMENT
+ÔªøEND-USER LICENSE AGREEMENT
  
-This End User License Agreement ("License") is an agreement between you and indiegame.co. This License governs your use of the game ìGUNZ.ioî, and updates and upgrades that replace or supplement the said game and are not distributed with a separate license (collectively, the "Game").
+This End User License Agreement ("License") is an agreement between you and indiegame.co. This License governs your use of the game ‚ÄúGUNZ.io‚Äù, and updates and upgrades that replace or supplement the said game and are not distributed with a separate license (collectively, the "Game").
  
 Accessing the Game. By installing on your mobile device or using the Game, you consent to be bound by the License. If you do not agree to the terms of this License, then do not use the Game and uninstall it form your mobile device. If you use the Game, the terms and conditions of this License are fully accepted by you.
  
@@ -20,7 +20,7 @@ Reservation of Rights.
    Except as expressly licensed to you herein, indiegame.co reserves all right, title and interest in the Game (including all copyrights, trademarks, trade secrets, trade names, proprietary rights, patents, titles, computer codes, audiovisual effects, themes, characters, character names, stories, dialog, settings, artwork, sound effects, musical works, and moral rights whether registered or not, as well as any extension, improvement or amendment of them), and all associated copyrights, trademarks, and other intellectual property rights therein for its own benefit or the benefit of its licensors. This License is limited to the intellectual property rights of indiegame.co and its licensors in the Game and does not include any rights to other patents or intellectual property. All rights not expressly granted herein are reserved by indiegame.co.
  
 Derivative works or contributions. 
-To the extent that your use of the Game and/or your contributions through use of the Game give rise to any copyright interest, you hereby grant indiegame.co an exclusive, perpetual, irrevocable, fully transferable and sub-licensable worldwide right and License to use your contributions in any way and for any purpose in connection with the Game and related goods and services including the rights to reproduce, copy, adapt, modify, perform, display, publish, broadcast, transmit, or otherwise communicate to the public by any means whether now known or hereinafter devised and distribute your contributions without any further notice or compensation to you of any kind for the whole duration of protection granted to intellectual property rights by applicable laws and international conventions. You hereby waive any rights or attribution with respect to indiegame.coís and other playersí use and enjoyment of such assets in connection with the Game and related goods and services under applicable law. The License grant to indiegame.co, and the above waiver of any applicable rights survives any termination of this License.
+To the extent that your use of the Game and/or your contributions through use of the Game give rise to any copyright interest, you hereby grant indiegame.co an exclusive, perpetual, irrevocable, fully transferable and sub-licensable worldwide right and License to use your contributions in any way and for any purpose in connection with the Game and related goods and services including the rights to reproduce, copy, adapt, modify, perform, display, publish, broadcast, transmit, or otherwise communicate to the public by any means whether now known or hereinafter devised and distribute your contributions without any further notice or compensation to you of any kind for the whole duration of protection granted to intellectual property rights by applicable laws and international conventions. You hereby waive any rights or attribution with respect to indiegame.co‚Äôs and other players‚Äô use and enjoyment of such assets in connection with the Game and related goods and services under applicable law. The License grant to indiegame.co, and the above waiver of any applicable rights survives any termination of this License.
  
  
 Restrictions of the Game. 
@@ -28,9 +28,9 @@ The following restrictions apply to you in regard of the use of the Game:
 Your right to use the Game is limited to the License, and you may not otherwise copy, display, distribute, perform, publish, modify, create works from, or use the Game or any component of it.
 You are prohibited from making a copy of the Game available on a network where it could be used by multiple users.
 You are prohibited from making the Game available over a network where it could be downloaded by multiple users.
-You may not remove or alter indiegame.coís or other third party trademarks or logos, or legal notices included in the Game or related assets and documentation.
+You may not remove or alter indiegame.co‚Äôs or other third party trademarks or logos, or legal notices included in the Game or related assets and documentation.
 You shall not use the Game if you are a convicted sex offender.
-You shall not use the Game if you have previously been removed by indiegame.co, or previously been banned from playing any indiegame.coís game.
+You shall not use the Game if you have previously been removed by indiegame.co, or previously been banned from playing any indiegame.co‚Äôs game.
 You shall not use the Game to violate the law or to harm, defraud or mislead indiegame.co or third parties.
  
  
@@ -39,25 +39,25 @@ Any use of the Game in violation of these License Limitations is strictly prohib
  
 You agree that you will not, under any circumstances:
 a. Engage in any act that indiegame.co deems to be in conflict with the spirit or intent of the Game, including but not limited to circumventing or manipulating these terms, the Game rules, Game mechanics or policies;
-b. Make improper use of indiegame.coís support services, including by submitting false abuse reports or using profane and abusive language in your communications with our support personnel; or
+b. Make improper use of indiegame.co‚Äôs support services, including by submitting false abuse reports or using profane and abusive language in your communications with our support personnel; or
 c. Use the Game, intentionally or unintentionally, in connection with any violation of any applicable law or regulation, or do anything that promotes the violation of any applicable law or regulation.
  
 Cheating and hacking - You agree that you will not, under any circumstances:
 d. Use cheats, exploits, automation software, bots, hacks, mods or any unauthorized third party software designed to modify or interfere with the Game;
 e. Use the Game in order to design or assist in the design of cheats, automation software, bots, hacks, mods or any other unauthorized third party software designed to modify or interfere with the Game;
-f. Without indiegame.coís express written consent, modify or cause to be modified any files that are a part of the Game;
+f. Without indiegame.co‚Äôs express written consent, modify or cause to be modified any files that are a part of the Game;
 g. Disrupt, overburden, or aid or assist in the disruption or overburdening of (1) any computer or server used to offer or support the Game ("Server"); or (2) the enjoyment of the Game by any other person;
-h. Institute, assist or become involved in any type of attack, including without limitation distribution of a virus, denial of service attacks upon the Service, or other attempts to disrupt the Service or any other personís use or enjoyment of the Service; or
+h. Institute, assist or become involved in any type of attack, including without limitation distribution of a virus, denial of service attacks upon the Service, or other attempts to disrupt the Service or any other person‚Äôs use or enjoyment of the Service; or
 i. Attempt to gain unauthorized access to the Game, Servers, or networks connected to the Game by any means other than the user interface provided by indiegame.co, including but not limited to, by circumventing or modifying, attempting to circumvent or modify, or encouraging or assisting any other person to circumvent or modify, any security, technology, device, or software that is part of the Game;
  
 Offensive or infringing content - You agree that you will not, under any circumstances:
 j. Post any information that is abusive, threatening, obscene, defamatory, libelous, or racially, sexually, religiously, or otherwise objectionable or offensive;
 k. Post any information that contains nudity, excessive violence, or offensive subject matter or that contains a link to such content;
-l. Attempt to, or harass, abuse, or harm, or advocate or incite harassment, abuse or harm of another person, group, including indiegame.co employees, including indiegame.coís customer service representatives; or
+l. Attempt to, or harass, abuse, or harm, or advocate or incite harassment, abuse or harm of another person, group, including indiegame.co employees, including indiegame.co‚Äôs customer service representatives; or
 m. Make available through the Game any material or information that infringes any copyright, trademark, patent, trade secret, right of privacy, right of publicity, or other right of any person or entity or impersonates any other person, including without limitation a indiegame.co employee;
  
 Commercial activity - You agree that you will not, under any circumstances:
-n. Without indiegame.coís express written consent, use the Game or any part thereof for any commercial purpose, including but not limited to (1) communicating or facilitating any commercial advertisement or solicitation, or (2) gathering or transferring Virtual Goods for sale;
+n. Without indiegame.co‚Äôs express written consent, use the Game or any part thereof for any commercial purpose, including but not limited to (1) communicating or facilitating any commercial advertisement or solicitation, or (2) gathering or transferring Virtual Goods for sale;
 o. Use the Game or any part thereof for performing in-game services, such as power-leveling and item collection services, in exchange for payment outside the Game; or
 p. Transmit unauthorized communications through the Game, including junk mail, chain letters, spam and any materials that promote malware, spyware and downloadable items;
  
@@ -69,12 +69,12 @@ t. Make any automated use of the system, or take any action that imposes or may 
 u. Bypass any robot exclusion headers or other measures indiegame.co employs to restrict access to the Game, to send content or messages, scrape, spider, or crawl the Game, or harvest or manipulate data;
 v. Use, facilitate, create, or maintain any unauthorized connection to the Game, including without limitation (1) any connection to any unauthorized server that emulates, or attempts to emulate any part of the Game; or (2) any connection using programs, tools, or software not expressly approved by indiegame.co;
 w. Except where permitted by law or relevant open source licenses, reverse engineer, decompile, disassemble, decipher or otherwise attempt to derive the source code for any underlying software or other intellectual property used to provide the Game, or to obtain any information from the Game using any method not expressly permitted by indiegame.co; or
-x. Copy, modify or distribute rights or content from the Game, or indiegame.coís copyrights or trademarks or use any method to copy or distribute the content of the Game except as specifically allowed in this License;
+x. Copy, modify or distribute rights or content from the Game, or indiegame.co‚Äôs copyrights or trademarks or use any method to copy or distribute the content of the Game except as specifically allowed in this License;
  
 Collection and publication of personal information - You agree that you will not, under any circumstances:
 y. Solicit or attempt to solicit personal information from other users of the Game;
-z. Collect, harvest or post anyoneís private information, including personally identifiable information (whether in text, image or video form), identification documents, or financial information through the Game; or
-aa. upload or transmit or attempt to upload or transmit, without indiegame.coís express permission, any material that acts as a passive or active information collection or transmission mechanism, including, without limitation, clear graphics interchange formats ("gifs"), 1x1 pixels, web bugs, cookies or other similar devices (sometimes referred to as "spyware," "passive collection mechanisms" or "pcms").
+z. Collect, harvest or post anyone‚Äôs private information, including personally identifiable information (whether in text, image or video form), identification documents, or financial information through the Game; or
+aa. upload or transmit or attempt to upload or transmit, without indiegame.co‚Äôs express permission, any material that acts as a passive or active information collection or transmission mechanism, including, without limitation, clear graphics interchange formats ("gifs"), 1x1 pixels, web bugs, cookies or other similar devices (sometimes referred to as "spyware," "passive collection mechanisms" or "pcms").
  
 Virtual Currencies and Virtual Goods. 
 You agree and understand that the Game may include Virtual Currency consisting of coins or gold and Virtual Goods consisting of digital items such as abilities, weapons or other kind of goods. The Virtual Currency and the Virtual Goods may be (i) earned by playing with the Game; (ii) by sending the feedback indicated in Section 9 or (ii) acquired by purchasing with real world money.
@@ -108,7 +108,7 @@ YOU ACKNOWLEDGE AND AGREE THAT IF YOU HAVE NOT PAID indiegame.co OR ITS LICENSOR
 SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES OR THE LIMITATION OR EXCLUSION OF LIABILITY FOR CERTAIN TYPES OF DAMAGES. THEREFORE, SOME OF THE ABOVE LIMITATIONS IN THE SECTION MAY NOT APPLY TO YOU. IN PARTICULAR, NOTHING IN THESE TERMS SHALL AFFECT THE STATUTORY RIGHTS OF ANY CONSUMER OR EXCLUDE OR RESTRICT ANY LIABILITY FOR DEATH OR PERSONAL INJURY ARISING FROM ANY NEGLIGENCE OR FRAUD OF indiegame.co.
  
 Indemnification. 
-You agree to indemnify, save, and hold indiegame.co, its affiliated companies, contractors, employees, agents and its third-party suppliers, licensors, and partners harmless from any claims, losses, damages, liabilities, including legal fees and expenses, arising out of your use or misuse of the Game, any violation by you of this License, or any breach of the representations, warranties, and covenants made by you herein. indiegame.co reserves the right, at your expense, to assume the exclusive defense and control of any matter for which you are required to indemnify indiegame.co, and you agree to cooperate with indiegame.coís defense of these claims. indiegame.co will use reasonable efforts to notify you of any such claim, action, or proceeding upon becoming aware of it.
+You agree to indemnify, save, and hold indiegame.co, its affiliated companies, contractors, employees, agents and its third-party suppliers, licensors, and partners harmless from any claims, losses, damages, liabilities, including legal fees and expenses, arising out of your use or misuse of the Game, any violation by you of this License, or any breach of the representations, warranties, and covenants made by you herein. indiegame.co reserves the right, at your expense, to assume the exclusive defense and control of any matter for which you are required to indemnify indiegame.co, and you agree to cooperate with indiegame.co‚Äôs defense of these claims. indiegame.co will use reasonable efforts to notify you of any such claim, action, or proceeding upon becoming aware of it.
  
  
 You agree that the provisions in this Section will survive any termination of the License.
@@ -124,25 +124,25 @@ Updates to the Game. You understand that the Game is an evolving one. indiegame.
  
 Every time that indiegame.co updates the Game, launching a new version of it, and you install such new version in your mobile device, indiegame.co may offer you the opportunity to send your feedback about the functioning of the Game.
  
-Should you decide that you want to provide indiegame.co with your feedback about the Game, before sending your comments, you will be required to fill out an obligatory form that will appear on the screen of your mobile device (the ìFormî) in which you must (i) provide your complete name; (ii) provide your e-mail address; and (iii) indicate the model of mobile device through which you are accessing the Game and that is suitable to connect with. By completing the Form, you authorize indiegame.co to disclose the personal data you have provided to indiegame.co to third parties which are responsible under an agreement with indiegame.co for the publication and/or commercialization and/or distribution of the Game.
+Should you decide that you want to provide indiegame.co with your feedback about the Game, before sending your comments, you will be required to fill out an obligatory form that will appear on the screen of your mobile device (the ‚ÄúForm‚Äù) in which you must (i) provide your complete name; (ii) provide your e-mail address; and (iii) indicate the model of mobile device through which you are accessing the Game and that is suitable to connect with. By completing the Form, you authorize indiegame.co to disclose the personal data you have provided to indiegame.co to third parties which are responsible under an agreement with indiegame.co for the publication and/or commercialization and/or distribution of the Game.
  
 All the information provided by you in the Form must be truthful and up to date. You agree that, if any information is untrue, inaccurate, incomplete or not current, indiegame.co has the right to refuse your future access and use of the Game.
  
 Privacy Policy.
  
 Non-Personal Data. 
-For purposes of this Section, ìnon-personal dataî means information that does not directly identify you. Additionally, non-personal data means ìaggregateî and ìde-personalizedî information, which is data indiegame.co collects about the use of the Game, from which any personally identifiable data has been removed.
+For purposes of this Section, ‚Äúnon-personal data‚Äù means information that does not directly identify you. Additionally, non-personal data means ‚Äúaggregate‚Äù and ‚Äúde-personalized‚Äù information, which is data indiegame.co collects about the use of the Game, from which any personally identifiable data has been removed.
 indiegame.co may use tools or third party analytical software to automatically collect and use certain non-personal data that does not directly enable indiegame.co to identify you. The types of non-personal data indiegame.co may collect and use include, but are not limited to: (i) device properties, including, but not limited to IP address, address and unique device identifier or other persistent or non-persistent device identifier ("Device ID"); (ii) device software platform and firmware; (iii) mobile phone carrier; (iv) geographical data such as zip code, area code and coarse location; (v) game progress, time used playing, score and achievements; (vi) other non-personal data as reasonably required by indiegame.co to enhance the Game.
  
-indiegame.co may use and disclose to indiegame.coís partners and contractors the collected non-personal data for purposes of analyzing usage of the Game, advertisement serving, managing and providing the Game and to further develop the Game and other indiegame.co services and products. Additionally, indiegame.co reserves the right to use and disclose the collected non-personal data for purposes of advertisement by indiegame.co or indiegame.coís partners and contractors.
+indiegame.co may use and disclose to indiegame.co‚Äôs partners and contractors the collected non-personal data for purposes of analyzing usage of the Game, advertisement serving, managing and providing the Game and to further develop the Game and other indiegame.co services and products. Additionally, indiegame.co reserves the right to use and disclose the collected non-personal data for purposes of advertisement by indiegame.co or indiegame.co‚Äôs partners and contractors.
  
 You recognize and agree that the analytics companies utilized by indiegame.co may combine the information collected with other information they have independently collected from other services or products relating to your activities. These companies collect and use information under their own privacy policies.
  
-indiegame.co may use personal and non-personal data, both individually and combined together, for purposes of analyzing usage of the Game, providing customer and technical support, managing and providing services (including managing advertisement serving), customizing indiegame.coís communications and to further develop the Games and other indiegame.co services and products. indiegame.co may combine non-personal data with personal data.
+indiegame.co may use personal and non-personal data, both individually and combined together, for purposes of analyzing usage of the Game, providing customer and technical support, managing and providing services (including managing advertisement serving), customizing indiegame.co‚Äôs communications and to further develop the Games and other indiegame.co services and products. indiegame.co may combine non-personal data with personal data.
  
 Personal data may be disclosed in accordance with applicable legislation and this Privacy Policy. Additionally, indiegame.co may disclose personal data to its parent companies and its subsidiaries in accordance with this Section.
  
-indiegame.co may hire agents and contractors to collect and process personal data on indiegame.coís behalf and in such cases such agents and contractors will be instructed to comply with our Privacy Policy and to use personal data only for the purposes for which the third party has been engaged by indiegame.co. These agents and contractors may not use your personal data for their own marketing purposes. indiegame.co may use third party service providers such as credit card processors, e-mail service providers, shipping agents, data analyzers and business intelligence providers. indiegame.co has the right to share your personal data as necessary for the aforementioned third parties to provide their services for indiegame.co. 
+indiegame.co may hire agents and contractors to collect and process personal data on indiegame.co‚Äôs behalf and in such cases such agents and contractors will be instructed to comply with our Privacy Policy and to use personal data only for the purposes for which the third party has been engaged by indiegame.co. These agents and contractors may not use your personal data for their own marketing purposes. indiegame.co may use third party service providers such as credit card processors, e-mail service providers, shipping agents, data analyzers and business intelligence providers. indiegame.co has the right to share your personal data as necessary for the aforementioned third parties to provide their services for indiegame.co. 
  
 indiegame.co may disclose your personal data to third parties as required by law enforcement or other government officials in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose you or indiegame.co to legal liability.
  
@@ -150,7 +150,7 @@ Data retention.
 indiegame.co retains the data collected pursuant to this Section for the period necessary to fulfill the purposes outlined in this Section unless a longer retention period is required or permitted by law. Thereafter if the collected data is no longer needed for purposes specified in this Section, indiegame.co will delete all aforementioned data in its possession within a reasonable timeframe. Irrespective of the above, indiegame.co may still retain some of the data to the extent such retention is necessary to resolve disputes, and comply with technical and legal requirements and constraints related to the security, integrity and operation of Game.
  
 Cookies, beacons and tracking. 
-The Game may use ìcookiesî and other technologies such as pixel tags, locally shared objects, clear GIFs and web beacons. indiegame.co treats information collected by cookies and similar technologies as non-personal data. You can disable cookies or set your browser to alert you when cookies are being sent to your device; however, disabling cookies may affect your ability to use the Game.
+The Game may use ‚Äúcookies‚Äù and other technologies such as pixel tags, locally shared objects, clear GIFs and web beacons. indiegame.co treats information collected by cookies and similar technologies as non-personal data. You can disable cookies or set your browser to alert you when cookies are being sent to your device; however, disabling cookies may affect your ability to use the Game.
  
 Severability and Survival. 
 If any provision of this License is illegal or unenforceable under applicable law, the remainder of the provision shall be amended to achieve as closely as possible the effect of the original term and all other provisions of this License shall continue in full force and effect.
@@ -163,10 +163,10 @@ Entire Agreement.
 This License contain the entire understanding of you and indiegame.co, and supersede all prior understandings of the parties hereto relating to the subject matter hereof, whether electronic, oral or written, or whether established by custom, practice, policy or precedent, between you and indiegame.co with respect to the Game.
  
 Language of the License. 
-If indiegame.co provides you with a translation of the English language version of this License or any other policy (ìindiegame.co Policiesî), then you agree that the translation is provided for informational purposes only and does not modify the English language version of the indiegame.co Policies.
+If indiegame.co provides you with a translation of the English language version of this License or any other policy (‚Äúindiegame.co Policies‚Äù), then you agree that the translation is provided for informational purposes only and does not modify the English language version of the indiegame.co Policies.
 In the event of a conflict between a translation of the indiegame.co Policies and the English version, the English version of the indiegame.co Policies will prevail.
  
-No Waiver. The failure of indiegame.co to require or enforce strict performance by you of any provision of this License or failure to exercise any right under them shall not be construed as a waiver or relinquishment of indiegame.coís right to assert or rely upon any such provision or right in that or any other instance.
+No Waiver. The failure of indiegame.co to require or enforce strict performance by you of any provision of this License or failure to exercise any right under them shall not be construed as a waiver or relinquishment of indiegame.co‚Äôs right to assert or rely upon any such provision or right in that or any other instance.
  
  
 The express waiver by indiegame.co of any provision, condition, or requirement of this License shall not constitute a waiver of any future obligation to comply with such provision, condition or requirement.
